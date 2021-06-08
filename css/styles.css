@@ -726,6 +726,7 @@ line-height: 26px;
 	overflow: hidden; 
 	padding: 5px;
 	position:relative;
+
 }
 .member-img:before {
 content: "";
@@ -752,6 +753,8 @@ left: 2px;
 .team-member .member-img img {
 	max-width: 250px;
 	margin: 0 auto;
+	height: 250px;
+	width: 400px;
 }
 .team-member h4 {
 	font-size: 19px;
